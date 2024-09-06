@@ -1,0 +1,20 @@
+{
+    "name": "chelp/help",
+    "description": "help",
+    "type": "library",
+    "require": {
+        "php": ">=7.4"
+    },
+    "authors": [
+        {
+            "name": "chenjs",
+            "email": "794560602@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "CHelp\\": "src"
+        }
+    }
+}
