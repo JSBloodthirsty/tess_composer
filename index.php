@@ -6,5 +6,5 @@ $a = [
     234.2342,
     23.123
 ];
-$b = CHelp\Bc::add($a, 3);
+$b = Chelp\Bc::add($a, 3);
 echo $b;
